@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<Sevinc Kərimli>
 <html lang="az">
 <head>
 	<meta charset="UTF-8">
